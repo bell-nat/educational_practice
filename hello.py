@@ -5,4 +5,4 @@ def greet(name):
 
 user_name = "Student"
 
-print(greet(user_nam))
+print(greet(user_name))
